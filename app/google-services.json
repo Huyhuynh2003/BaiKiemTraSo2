@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "526309628623",
+    "firebase_url": "https://ktraso2-default-rtdb.firebaseio.com",
+    "project_id": "ktraso2",
+    "storage_bucket": "ktraso2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526309628623:android:84d69c57faa63d7279b5ba",
+        "android_client_info": {
+          "package_name": "com.example.baikiemtraso2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526309628623-0lc875upkhta8c3e5e9jqt44avsp82e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8nHO9EyIrTXwt5u7onmP64MOO-KOySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526309628623-0lc875upkhta8c3e5e9jqt44avsp82e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526309628623:android:7919dbfffe85e57b79b5ba",
+        "android_client_info": {
+          "package_name": "com.example.ktraso2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526309628623-0lc875upkhta8c3e5e9jqt44avsp82e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8nHO9EyIrTXwt5u7onmP64MOO-KOySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526309628623-0lc875upkhta8c3e5e9jqt44avsp82e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
